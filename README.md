@@ -174,28 +174,10 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License – see the LICENSE file for details.
-
-## 👨‍💻 Author
-
-**Prudhvi Teja**  
-GitHub: [@Prudhviteja9](https://github.com/Prudhviteja9)
-
-## 📧 Contact & Support
-
-For questions, issues, or suggestions:
-- Open an issue on GitHub
-- Email: prudhviteja@example.com
-
 ## 🙏 Acknowledgments
 
 - Apple CoreML documentation and resources
 - Open-source community for segmentation model architectures
 - Contributors and testers
 
----
 
-**Last Updated:** December 2025  
-**Status:** Active Development
